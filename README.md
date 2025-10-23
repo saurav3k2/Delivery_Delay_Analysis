@@ -213,8 +213,8 @@ delhivery-logistics-analysis/
 5. Open a Pull Request
 
 ## 📄 Screenshots / Demo
-Show what the dashboard looks like . -![Alt text](https://github.com/username/repo/assets/image.png)
-Sample :  ![Dashboard Preview].(https://github.com/Ishu-2820/Delivery_Delay_Analysis/blob/main/dilveray%20dashborad.png).
+Show what the dashboard looks like . -![Alt text]
+Sample :  ![Dashboard Preview]).
 
 ## 👥 Author
 
