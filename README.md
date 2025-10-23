@@ -218,16 +218,16 @@ Sample :  ![Dashboard Preview].(https://github.com/Ishu-2820/Delivery_Delay_Anal
 
 ## 👥 Author
 
-**[Ishika Kumari]**
+**[Saurav Kumar]**
 - Data Analytics Intern 
 - Location: Bihar, India
 
 ## 📞 Contact
 
 For questions, feedback, or collaboration opportunities:
-- Email: [dk321569@gmail.com]
-- LinkedIn: https://www.linkedin.com/in/ishika-kumari-21973732b/
-- GitHub: [https://github.com/Ishu-2820]
+- Email: [saurav3k2@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/saurav-kumar-492bb425b/
+- GitHub: [https://github.com/saurav3k2]
 
 ## 🙏 Acknowledgments
 
